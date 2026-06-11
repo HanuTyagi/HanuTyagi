@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00FF00&text=Bhavishya%20Tyagi&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Professional&descSize=25&descColor=00FF00&descAlignY=60" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Bhavishya%20Tyagi%20(DevilHanu)&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Professional%20%7C%20Digital%20Forensics&descSize=20&descColor=00FFFF&descAlignY=65" width="100%"/>
   </a>
 </p>
 
