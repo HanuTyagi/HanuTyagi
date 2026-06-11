@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bhavishya%20Tyagi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CyberSecurity%20Professional&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Bhavishya Tyagi</h1>
+<h3 align="center">🛡️ Cybersecurity Professional | 🔍 Digital Forensics | 💻 Red Teamer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Bhavishya%20Tyagi%20(DevilHanu)&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Professional%20%7C%20Digital%20Forensics&descSize=20&descColor=00FFFF&descAlignY=65" width="100%"/>
-  </a>
+  <img src="https://img.shields.io/badge/Status-Master's_Student-blue?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Network_Reconnaissance-a371f7?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Goal-Security_Research-00FF00?style=for-the-badge" alt="Goal" />
 </p>
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEwtxBg3BZcFQ/profile-displaybackgroundimage-shrink_350_1400/B4DZXLkzGCHYAY-/0/1742877179094?e=1782950400&v=beta&t=k48vbv4xASExjMoEGfnTNiGZAd4PKictfgWtHz4S-7Q" alt="Banner" width="100%" />
