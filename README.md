@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=Bhavishya+Tyagi;Cybersecurity+Professional;Red+Teamer+%7C+Malware+Analyst" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:00FF00&text=Bhavishya%20Tyagi&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Professional&descSize=25&descColor=00FF00&descAlignY=60" width="100%"/>
   </a>
 </p>
 
