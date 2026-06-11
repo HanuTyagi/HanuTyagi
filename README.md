@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Bhavishya%20Tyagi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CyberSecurity%20Professional&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=HanuTyagi">
-    <img src="https://komarev.com/ghpvc/?username=HanuTyagi&label=Profile%20views&color=00FFFF&style=flat-square" alt="HanuTyagi's profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=120&lines=Bhavishya+Tyagi;Cybersecurity+Professional;Red+Teamer+%7C+Malware+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
