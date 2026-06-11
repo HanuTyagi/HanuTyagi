@@ -32,7 +32,7 @@
   <img src="https://streak-stats.demolab.com/?user=HanuTyagi&theme=dracula&hide_border=true&cache_seconds=86400" alt="HanuTyagi's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=HanuTyagi&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bhavishya Tyagi's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HanuTyagi&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Bhavishya Tyagi's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=HanuTyagi&theme=dracula&radius=10" alt="HanuTyagi's Activity Graph" />
