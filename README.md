@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Master's_Student-blue?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Network_Reconnaissance-a371f7?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Goal-Security_Research-00FF00?style=for-the-badge" alt="Goal" />
+  <img src="https://img.shields.io/badge/Goal-Red_Team-00FF00?style=for-the-badge" alt="Goal" />
 </p>
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQEwtxBg3BZcFQ/profile-displaybackgroundimage-shrink_350_1400/B4DZXLkzGCHYAY-/0/1742877179094?e=1782950400&v=beta&t=k48vbv4xASExjMoEGfnTNiGZAd4PKictfgWtHz4S-7Q" alt="Banner" width="100%" />
